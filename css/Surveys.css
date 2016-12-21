@@ -1,0 +1,66 @@
+/*.dich{
+    padding: 10px;
+    background-color: beige;
+    margin: 20px;
+    border-radius: 5px;
+}
+.simple{
+    padding: 10px;
+    background-color: beige;
+    margin: 10px;
+    border-radius: 5px;
+}
+.multiple{
+    padding: 10px;
+    background-color: beige;
+    margin: 10px;
+    border-radius: 5px;
+}
+.level{
+    padding: 10px;
+    background-color: beige;
+    margin: 10px;
+
+
+}*/
+
+.level ,.dich ,.free ,.multiple ,.simple {
+    padding: 10px;
+    background-color: rgba(143, 179, 159, 0.86);
+    margin: 20px;
+    padding-bottom: 50px;
+}
+
+.level p,.dich p,.free p,.multiple p,.simple p{
+    font-size: 15px;
+    margin-left: 40px;
+    font-family: Calibri;
+    color: rgba(46, 29, 29, 0.7);
+    overflow: auto;
+
+}
+.level div,.dich div,.free div,.multiple div,.simple div{
+
+}
+.level label,.dich label,.free label,.multiple label,.simple label{
+
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.42);
+    font-weight: 100;
+
+
+
+}
+.free label{
+    display: block;
+    margin: 0px 0px 5px;
+}
+.free input{
+    padding: 10px;
+}
+.form-control{
+    border: 1px solid rgba(204, 204, 204, 0.42);
+    border-radius: 0px;
+    margin:5px;
+
+}

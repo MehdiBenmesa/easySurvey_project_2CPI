@@ -1,0 +1,52 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+    padding: 10px;
+}
+
+#container
+{
+    padding: 10px;
+    width: 300px;
+}
+
+#container label
+{
+    margin-bottom: 10px;
+}
+
+#container input
+{
+    display: inline-block;
+    padding: 2px;
+    width: 280px;
+}
+
+#container ul
+{
+    width: 260px;
+    background: #f3f3f3;
+    list-style: none;
+    border: 1px solid #cccccc;
+    overflow: auto;
+}
+
+#container ul li
+{
+    padding: 2px;
+}
+
+#container ul li:hover
+{
+    background: #eaeaea;
+}
+
+#list
+{
+    display: none;
+}

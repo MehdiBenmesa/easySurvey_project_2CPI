@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74a9db3a-7135-4c0e-83f0-b5eab93801ad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/404_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/500_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/ai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-mini2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-mini3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-mini4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar1_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chart-texture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chat-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chat-avatar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/checkbox/check-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/checkbox/check-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/customSelect-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/eps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/follower-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/left-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lock-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mail-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mask-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nav-expand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pro-ac-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pro-ac-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-thumb-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/psd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/checkbox/radio-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/checkbox/radio-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/right-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ring.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/search-icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sm-img-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sm-img-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sm-img-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vector-lab.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InfoProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MesSurveys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Question.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Reponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sondage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/Suggestion_2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wail/Wail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addResponses.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addResponsesParticipate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adminindex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/advanced-form-components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/all-chartjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/alpaca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/alpaca.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/common-scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/configModal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dynamic-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/easy-pie-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/editable-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/external-dragging-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/flot-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/form-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/form-image-crop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/form-validation-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ga.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getAllSpecs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getBankQuestions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getGroupes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getModals.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getNotCompletedSurvey.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurvey.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveyData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveyInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveyParticipate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveysData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveysInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gmaps-scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gmaps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gritter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/highcharts-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/hover-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/image-crop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-ui-1.9.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.customSelect.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.dcjqaccordion.2.7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.dcjqaccordion.2.7.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wail/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.nicescroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.scrollTo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.sparkline-11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.stepy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.tagsinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/mb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/morris-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/morris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/navbar-fixed-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newAnswer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newAnswer2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newSondage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/newStyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/projet.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/raphael-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/removeQuestion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/respond.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saveModal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sendNotification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setParticipation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/showSurvey.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sondageInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sondageInfo2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/sparkline-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suggestion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyParticipation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyResults.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/table-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/tasks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tasks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/toucheffects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/userlogin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/workspace.xml" />
+    </list>
+    <ignored path="testing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/testing$testing.coverage" NAME="testing Coverage Results" MODIFIED="1425082792638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projet$testing.coverage" NAME="testing Coverage Results" MODIFIED="1427236566040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="true" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="project" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="testing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="surveyCreator.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/surveyCreator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13440861" vertical-offset="375" max-vertical-offset="16875">
+              <caret line="30" column="78" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="78" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-40.10204" vertical-offset="0" max-vertical-offset="2625">
+              <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="surveyResults.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/surveyResults.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7200">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4380" max-vertical-offset="4575">
+              <caret line="292" column="9" selection-start-line="292" selection-start-column="9" selection-end-line="292" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/student.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/surveyResults.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/newSondage.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SurveyCreator/index2.html" />
+        <option value="$PROJECT_DIR$/SurveyCreator/css/style2.css" />
+        <option value="dbtable:/34a7556e/086203f6-7bb9-4732-85a7-4a271e619689/database..notifications" />
+        <option value="$PROJECT_DIR$/SurveyCreator/css/demo.css" />
+        <option value="$PROJECT_DIR$/surveyCreator/surveyCreator.php" />
+        <option value="$PROJECT_DIR$/getSurveyInfo.php" />
+        <option value="$PROJECT_DIR$/getNotCompletedSurvey.php" />
+        <option value="$PROJECT_DIR$/newSondage.php" />
+        <option value="$PROJECT_DIR$/sendNotification.php" />
+        <option value="$PROJECT_DIR$/surveyCreator/js/borderMenu.js" />
+        <option value="db-console:/34a7556e/086203f6-7bb9-4732-85a7-4a271e619689/" />
+        <option value="$PROJECT_DIR$/getBankQuestions.php" />
+        <option value="$PROJECT_DIR$/showSurvey.php" />
+        <option value="$PROJECT_DIR$/adminindex.php" />
+        <option value="$PROJECT_DIR$/userlogin.php" />
+        <option value="$PROJECT_DIR$/InfoProfil.php" />
+        <option value="$PROJECT_DIR$/getSurveyData.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="dbtable:/34a7556e/086203f6-7bb9-4732-85a7-4a271e619689/database..questions" />
+        <option value="$PROJECT_DIR$/newAnswer.php" />
+        <option value="$PROJECT_DIR$/suggestion.php" />
+        <option value="$PROJECT_DIR$/Question.php" />
+        <option value="$PROJECT_DIR$/simple-confirmation-popup/simple-confirmation-popup/css/style.css" />
+        <option value="$PROJECT_DIR$/saveModale.php" />
+        <option value="$PROJECT_DIR$/Notification.php" />
+        <option value="$PROJECT_DIR$/sondageInfo.php" />
+        <option value="$PROJECT_DIR$/Grid/Student.html" />
+        <option value="$PROJECT_DIR$/Grid/Grid.html" />
+        <option value="$PROJECT_DIR$/Grid.html" />
+        <option value="$PROJECT_DIR$/getModals.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/sondageInfo2.php" />
+        <option value="$PROJECT_DIR$/configModal.php" />
+        <option value="$PROJECT_DIR$/Sondage.php" />
+        <option value="$PROJECT_DIR$/modeles.php" />
+        <option value="$PROJECT_DIR$/surveyCreator/css/style2.css" />
+        <option value="$PROJECT_DIR$/button/css/buttons.css" />
+        <option value="$PROJECT_DIR$/MesSurveys.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/User.php" />
+        <option value="$PROJECT_DIR$/editPass.php" />
+        <option value="$PROJECT_DIR$/InfoProfile.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/getSurvey.php" />
+        <option value="$PROJECT_DIR$/addResponses.php" />
+        <option value="$PROJECT_DIR$/js/highcharts.js" />
+        <option value="$PROJECT_DIR$/js/highcharts-export.js" />
+        <option value="$PROJECT_DIR$/css/Surveys.css" />
+        <option value="$PROJECT_DIR$/surveyCreator.php" />
+        <option value="$PROJECT_DIR$/student.php" />
+        <option value="$PROJECT_DIR$/surveyResults.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="27" />
+    <option name="width" value="1368" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpParamsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="Console.TableResult.DefaultCopyAction" value="JSON" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null&#10;getdesc&#9;null&#9;null" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js.eslint.nodeInterpreter" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="E:\karim\PROJET CP2\PROGRAM\projet31\testing\SurveyCreator" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/Wail" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/surveyCreator" />
+      <recent name="$PROJECT_DIR$/Wail" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.mail.php">
+    <configuration default="false" name="testing" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpUnitCoverageRunner" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitCoverageRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="inputs.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/testing/inputs.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mail.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/projet/mail.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.testing" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.inputs.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.mail.php" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.mail.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.testing" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.inputs.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,ALPHA_COMPARATOR,VISIBILITY_SORTER,Show Includes" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74a9db3a-7135-4c0e-83f0-b5eab93801ad" name="Default" comment="" />
+      <created>1423835452426</created>
+      <option name="number" value="Default" />
+      <updated>1423835452426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22453532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3263328" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.168429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12556732" sideWeight="0.49919486" order="1" side_tool="false" content_ui="tabs" x="496" y="90" width="336" height="634" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18694362" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="99" y="123" width="1168" height="550" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.398374" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3510467" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2393617" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38449112" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32686085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39256865" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3263328" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="99" y="123" width="1168" height="550" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.398374" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3510467" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2393617" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38449112" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22453532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.168429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32686085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12556732" sideWeight="0.49919486" order="1" side_tool="false" content_ui="tabs" x="496" y="90" width="336" height="634" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18694362" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39256865" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/simple-confirmation-popup/simple-confirmation-popup" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/SurveyCreator/index2.html</url>
+          <line>319</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="projet" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="testing" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/getSurvey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/checkbox/radio-on.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18850988" vertical-offset="1020" max-vertical-offset="3165">
+          <caret line="75" column="57" selection-start-line="75" selection-start-column="57" selection-end-line="75" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getBankQuestions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
+          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.dropbox">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suggestion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="435">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSurveyData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35008976" vertical-offset="0" max-vertical-offset="557">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-confirmation-popup/simple-confirmation-popup/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9966273" vertical-offset="2482" max-vertical-offset="3075">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-confirmation-popup/simple-confirmation-popup/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveyParticipation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="103.125" vertical-offset="2745" max-vertical-offset="5445">
+          <caret line="18" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="357" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-confirmation-popup/simple-confirmation-popup/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wail/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2413793" vertical-offset="720" max-vertical-offset="138165">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23725834" vertical-offset="0" max-vertical-offset="569">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getGroupes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getAllSpecs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="135">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setParticipation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="135">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showSurvey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.98920864" vertical-offset="3875" max-vertical-offset="4620">
+          <caret line="295" column="0" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveModal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="150">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userlogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="40.0" vertical-offset="1170" max-vertical-offset="2895">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getModals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05272408" vertical-offset="0" max-vertical-offset="569">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSurveysInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sondageInfo2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.166667" vertical-offset="1574" max-vertical-offset="2130">
+          <caret line="266" column="0" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSurveysData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
+          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sondageInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6744604" vertical-offset="2970" max-vertical-offset="4275">
+          <caret line="223" column="21" selection-start-line="223" selection-start-column="21" selection-end-line="223" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configModal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10544816" vertical-offset="0" max-vertical-offset="569">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sondage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8093525" vertical-offset="119" max-vertical-offset="1215">
+          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveyCreator/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1290" max-vertical-offset="3240">
+          <caret line="86" column="27" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/css/buttons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="3555">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MesSurveys.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4029" max-vertical-offset="4454">
+          <caret line="237" column="13" selection-start-line="237" selection-start-column="13" selection-end-line="237" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newAnswer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="442">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modeles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="3757">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Surveys.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1035">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="20.5" vertical-offset="492" max-vertical-offset="1050">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1365">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625" vertical-offset="90" max-vertical-offset="795">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-41.666668" vertical-offset="605" max-vertical-offset="1860">
+          <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editPass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="150">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.5537634" vertical-offset="0" max-vertical-offset="1515">
+          <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InfoProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1802" max-vertical-offset="2550">
+          <caret line="106" column="5" selection-start-line="102" selection-start-column="2" selection-end-line="106" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="4573" max-vertical-offset="5610">
+          <caret line="269" column="51" selection-start-line="269" selection-start-column="51" selection-end-line="269" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addResponses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09461967" vertical-offset="0" max-vertical-offset="539">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSurvey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37847868" vertical-offset="0" max-vertical-offset="539">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/highcharts-export.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="22" column="978" selection-start-line="22" selection-start-column="978" selection-end-line="22" selection-end-column="978" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/highcharts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4935">
+          <caret line="293" column="226" selection-start-line="293" selection-start-column="226" selection-end-line="293" selection-end-column="226" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveyResults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-40.10204" vertical-offset="0" max-vertical-offset="2625">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4380" max-vertical-offset="4575">
+          <caret line="292" column="9" selection-start-line="292" selection-start-column="9" selection-end-line="292" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveyCreator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13440861" vertical-offset="375" max-vertical-offset="16875">
+          <caret line="30" column="78" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

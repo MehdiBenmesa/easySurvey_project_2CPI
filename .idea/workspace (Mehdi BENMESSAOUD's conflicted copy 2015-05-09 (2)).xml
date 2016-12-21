@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/admin.php" line="315" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74a9db3a-7135-4c0e-83f0-b5eab93801ad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/404_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/500_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gallery/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/img/related/CreativeButtons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/FontAwesome.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/FontAwesome.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/img/related/ProgressButtonStyles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/ai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-mini2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-mini3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-mini4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar1_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chart-texture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chat-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chat-avatar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/checkbox/check-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/checkbox/check-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/fonts/codropsicons/codropsicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/fonts/codropsicons/codropsicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/codropsicons/codropsicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/fonts/codropsicons/codropsicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/fonts/codropsicons/codropsicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/codropsicons/codropsicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/customSelect-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/eps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/follower-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/hu/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/left-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lock-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mail-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mask-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/minicons-webalys.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/minicons-webalys.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nav-expand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pro-ac-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pro-ac-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro-thumb-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-list/pro3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/psd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/checkbox/radio-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/checkbox/radio-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/right-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ring.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/search-icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simple-confirmation-popup/simple-confirmation-popup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sm-img-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sm-img-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sm-img-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vector-lab.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/fonts/vicons/vicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/fonts/vicons/vicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/file-search/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/APC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Abstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Abstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Cell/AdvancedValueBinder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/Alignment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/AutoFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Autoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/BaseDrawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/Border.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/Borders.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/CSV.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/CSV.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/CacheBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorageFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Cell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/CellIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/OLE/ChainedBlockStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Excel2007/Chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/Chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/CodePage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/AutoFilter/Column.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/ColumnDimension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/Comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/Conditional.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/ContentTypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/PDF/Core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CalcEngine/CyclicReferenceStack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart/DataSeries.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart/DataSeriesValues.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Cell/DataType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Cell/DataValidation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/DateTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/DefaultReadFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Cell/DefaultValueBinder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Escher/DgContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Escher/DggContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/DocProps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/DocumentProperties.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/DocumentSecurity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/PDF/DomPDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Drawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/Drawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/Drawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/Engineering.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/JAMA/utils/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Excel5/Escher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Escher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel5/Escher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Excel2003XML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Excel2007.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Excel5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Excel5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/ExceptionHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/OLE/PPS/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/Fill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/Financial.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel5/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/FontAwesome.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/FontAwesome.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/FontAwesome.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/FormulaParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/FormulaToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/Functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Gnumeric.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/HTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/HTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/HashTable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/HeaderFooter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Cell/Hyperlink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/ICache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/IComparable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/IOFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/IReadFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/IReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/RichText/ITextElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Cell/IValueBinder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/IWriter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/Igbinary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InfoProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart/Layout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart/Legend.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CalcEngine/Logger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/Logical.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/LookupRef.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Excel5/MD5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/MathTrig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/JAMA/utils/Maths.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/JAMA/Matrix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/Memcache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/Memory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/MemoryDrawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MesSurveys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/NamedRange.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/NumberFormat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/OLE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/OLERead.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/OOCalc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/PDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/OLE/PPS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/PageMargins.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/PageSetup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel5/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/PasswordHasher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart/PlotArea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/Protection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/Protection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Question.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Excel5/RC4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/ReferenceHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/Rels.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/RelsRibbon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/RelsVBA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Reponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/RichText.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/OLE/PPS/Root.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/Row.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/RowDimension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/RowIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/RichText/Run.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/SQLite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/SQLite3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/SYLK.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Service.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/Drawing/Shadow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet/SheetView.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sondage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/Token/Stack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/Statistical.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/String.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/StringTable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/Style.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/Suggestion_2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Style/Supervisor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/TextData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/RichText/TextElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Reader/Excel2007/Theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/Theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/TimeZone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart/Title.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wail/Wail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/Wincache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/Workbook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel5/Workbook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Worksheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/Worksheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel5/Worksheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/WorksheetIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel2007/WriterPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/XMLWriter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/Excel5/Xf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/ZipArchive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/ZipStreamWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addModule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addResponses.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addResponsesParticipate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adminindex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/advanced-form-components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/all-chartjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/alpaca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/alpaca.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/trend/bestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/js/borderMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/css/buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/fonts/codropsicons/codropsicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/fonts/codropsicons/codropsicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/codropsicons/codropsicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/fonts/codropsicons/codropsicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/fonts/codropsicons/codropsicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/codropsicons/codropsicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/common-scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/css/component2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/configModal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/bg/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/cs/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/da/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/de/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/en/uk/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/es/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/fi/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/fr/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/hu/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/it/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/nl/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/no/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/pl/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/pt/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/pt/br/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/ru/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/sv/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/tr/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delModule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/js/demo2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dynamic-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/easy-pie-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/editable-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/excel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/trend/exponentialBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/export-svc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/external-dragging-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/flot-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/form-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/form-image-crop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/form-validation-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Calculation/functionlist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/cs/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/da/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/de/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/es/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/fi/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/fr/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/it/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/nl/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/no/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/pl/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/pt/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/pt/br/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/ru/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/sv/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/locale/tr/functions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ga.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getAllModals.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getAllServices.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getAllSpecs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getBankQuestions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getGroupes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getModals.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getNotCompletedSurvey.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurvey.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveyData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveyInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveyParticipate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveysData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getSurveysInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gmaps-scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gmaps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gritter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/highcharts-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/hover-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/css/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/image-crop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/indexPrin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/indexadm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Chart/Renderer/jpgraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-ui-1.9.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.customSelect.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.dcjqaccordion.2.7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.dcjqaccordion.2.7.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wail/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.nicescroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.scrollTo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.sparkline-11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.stepy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.tagsinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/fonts/codropsicons/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/fonts/codropsicons/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/codropsicons/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/trend/linearBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/PDF/mPDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/mb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/minicons-webalys.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/fonts/demoicons/minicons-webalys.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modeles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/js/modernizr-2.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/morris-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/morris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/navbar-fixed-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newAnswer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newAnswer2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newSondage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/newStyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Menu/js/polyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/trend/powerBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/projet.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/raphael-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/PCLZip/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/removeQuestion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/respond.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saveModal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sendNotification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setParticipation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/showSurvey.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sondageInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sondageInfo2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sondageInfo3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sondageInfo4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/sparkline-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/student.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator/css/style2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suggestion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/suggestion.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyCreator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyParticipation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/surveyResults.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/table-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/tasks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tasks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Writer/PDF/tcPDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/toucheffects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/PHPExcel/Shared/trend/trendClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/userlogin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/css/vicons-font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/fonts/vicons/vicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/fonts/vicons/vicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Suggestion_2/.idea/workspace.xml" />
+    </list>
+    <list id="9919f9bc-0c84-4c27-87dc-f210073d01e6" name="Rejected commit: Default" comment="Rejected commit: Default" />
+    <ignored path="testing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/testing$testing.coverage" NAME="testing Coverage Results" MODIFIED="1425082792638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projet$testing.coverage" NAME="testing Coverage Results" MODIFIED="1427236566040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="true" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="project" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="testing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="indexPrin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/indexPrin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29982045" vertical-offset="1633" max-vertical-offset="2190">
+              <caret line="120" column="22" selection-start-line="120" selection-start-column="22" selection-end-line="120" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/js1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/js2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="2235">
+              <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mehdi Benmessaoud" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/surveyResults.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/student.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/newSondage.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/getSurvey.php" />
+        <option value="$PROJECT_DIR$/addResponses.php" />
+        <option value="$PROJECT_DIR$/js/highcharts.js" />
+        <option value="$PROJECT_DIR$/js/highcharts-export.js" />
+        <option value="$PROJECT_DIR$/surveyCreator/css/style2.css" />
+        <option value="$PROJECT_DIR$/showSurvey.php" />
+        <option value="$PROJECT_DIR$/js/jspdf.plugin.addhtml.js" />
+        <option value="$PROJECT_DIR$/js/jspdf.js" />
+        <option value="$PROJECT_DIR$/js/jspdf.plugin.addimage.js" />
+        <option value="$PROJECT_DIR$/js/jspdf.plugin.split_text_to_size.js" />
+        <option value="$PROJECT_DIR$/js/jspdf.plugin.from_html.js" />
+        <option value="$PROJECT_DIR$/js/jspdf.plugin.standard_fonts_metrics.js" />
+        <option value="$PROJECT_DIR$/js/jspdf.plugin.autoprint.js" />
+        <option value="$PROJECT_DIR$/js/jspdf.plugin.sillysvgrenderer.js" />
+        <option value="$PROJECT_DIR$/export-svc.js" />
+        <option value="$PROJECT_DIR$/Notification.php" />
+        <option value="$PROJECT_DIR$/button/css/buttons.css" />
+        <option value="$PROJECT_DIR$/User.php" />
+        <option value="$PROJECT_DIR$/setParticipation.php" />
+        <option value="$PROJECT_DIR$/Sondage.php" />
+        <option value="$PROJECT_DIR$/css/Surveys.css" />
+        <option value="$PROJECT_DIR$/getAllModals.php" />
+        <option value="$PROJECT_DIR$/surveyCreator.php" />
+        <option value="$PROJECT_DIR$/Module.php" />
+        <option value="$PROJECT_DIR$/delModule.php" />
+        <option value="$PROJECT_DIR$/Service.php" />
+        <option value="$PROJECT_DIR$/getAllServices.php" />
+        <option value="$PROJECT_DIR$/newSondage.php" />
+        <option value="$PROJECT_DIR$/delService.php" />
+        <option value="$PROJECT_DIR$/addService.php" />
+        <option value="$PROJECT_DIR$/excel.php" />
+        <option value="$PROJECT_DIR$/userlogin.php" />
+        <option value="$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php" />
+        <option value="$PROJECT_DIR$/temp/index.html" />
+        <option value="$PROJECT_DIR$/surveyResults.php" />
+        <option value="$PROJECT_DIR$/student.php" />
+        <option value="$PROJECT_DIR$/sondageInfo3.php" />
+        <option value="$PROJECT_DIR$/sondageInfo2.php" />
+        <option value="$PROJECT_DIR$/sondageInfo.php" />
+        <option value="$PROJECT_DIR$/modeles.php" />
+        <option value="$PROJECT_DIR$/MesSurveys.php" />
+        <option value="$PROJECT_DIR$/indexadm.php" />
+        <option value="$PROJECT_DIR$/adminindex.php" />
+        <option value="$PROJECT_DIR$/Menu/css/component2.css" />
+        <option value="$PROJECT_DIR$/surveyParticipation.php" />
+        <option value="$PROJECT_DIR$/sondageInfo4.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/InfoProfile.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/indexPrin.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="27" />
+    <option name="width" value="1366" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpParamsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="Console.TableResult.DefaultCopyAction" value="JSON" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null&#10;getdesc&#9;null&#9;null" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js.eslint.nodeInterpreter" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="E:\karim\PROJET CP2\PROGRAM\projet31\testing\SurveyCreator" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/Wail" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/surveyCreator" />
+      <recent name="$PROJECT_DIR$/Wail" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.mail.php">
+    <configuration default="false" name="testing" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpUnitCoverageRunner" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitCoverageRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="inputs.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/testing/inputs.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mail.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/projet/mail.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.testing" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.inputs.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.mail.php" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.mail.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.testing" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.inputs.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,ALPHA_COMPARATOR,VISIBILITY_SORTER,Show Includes" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74a9db3a-7135-4c0e-83f0-b5eab93801ad" name="Default" comment="" />
+      <created>1423835452426</created>
+      <option name="number" value="Default" />
+      <updated>1423835452426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2246596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3263328" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15733737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12556732" sideWeight="0.49919486" order="1" side_tool="false" content_ui="tabs" x="496" y="90" width="336" height="634" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18667643" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39256865" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="99" y="123" width="1168" height="550" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.398374" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3510467" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2393617" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38449112" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32686085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/simple-confirmation-popup/simple-confirmation-popup" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/SurveyCreator/index2.html</url>
+          <line>319</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="projet" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="testing" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4950" max-vertical-offset="7905">
+          <caret line="330" column="102" selection-start-line="330" selection-start-column="102" selection-end-line="330" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexPrin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="3135">
+          <caret line="9" column="83" selection-start-line="8" selection-start-column="3" selection-end-line="9" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suggestion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSurveysData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="170">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="901">
+          <caret line="35" column="272" selection-start-line="35" selection-start-column="272" selection-end-line="35" selection-end-column="272" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/Essay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="731">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/css/buttons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="3555">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSurveyParticipate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSurveyInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="580">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addResponses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07908612" vertical-offset="0" max-vertical-offset="569">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addResponsesParticipate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSurveysInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025179856" vertical-offset="4336" max-vertical-offset="4950">
+          <caret line="290" column="40" selection-start-line="290" selection-start-column="40" selection-end-line="290" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sondage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2312" max-vertical-offset="2720">
+          <caret line="136" column="5" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveyCreator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.53846157" vertical-offset="4763" max-vertical-offset="17867">
+          <caret line="281" column="93" selection-start-line="281" selection-start-column="93" selection-end-line="281" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showSurvey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2190" max-vertical-offset="4770">
+          <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setParticipation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.75" vertical-offset="360" max-vertical-offset="930">
+          <caret line="54" column="0" selection-start-line="3" selection-start-column="4" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="135" max-vertical-offset="1005">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.166666" vertical-offset="959" max-vertical-offset="1515">
+          <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="590">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getAllServices.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1230" max-vertical-offset="1785">
+          <caret line="82" column="58" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2962298" vertical-offset="0" max-vertical-offset="1785">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/086203f6-7bb9-4732-85a7-4a271e619689">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>086203f6-7bb9-4732-85a7-4a271e619689</OriginalElement>
+          <nodes>
+            <node x="-2.5" y="924.0">086203f6-7bb9-4732-85a7-4a271e619689.table:database.modules</node>
+            <node x="66.5" y="722.0">086203f6-7bb9-4732-85a7-4a271e619689.table:database.users</node>
+            <node x="238.5" y="924.0">086203f6-7bb9-4732-85a7-4a271e619689.table:database.services</node>
+            <node x="376.5" y="162.0">086203f6-7bb9-4732-85a7-4a271e619689.table:database.sondage_reponses</node>
+            <node x="681.5" y="473.5">086203f6-7bb9-4732-85a7-4a271e619689.table:database.sondage_questions</node>
+            <node x="917.0" y="-6.5">086203f6-7bb9-4732-85a7-4a271e619689.table:database.specs</node>
+            <node x="679.0" y="183.0">086203f6-7bb9-4732-85a7-4a271e619689.table:database.questions</node>
+            <node x="410.5" y="-6.5">086203f6-7bb9-4732-85a7-4a271e619689.table:database.reponses</node>
+            <node x="329.5" y="389.5">086203f6-7bb9-4732-85a7-4a271e619689.table:database.surveys</node>
+            <node x="79.0" y="463.0">086203f6-7bb9-4732-85a7-4a271e619689.table:database.notifications</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.sondage_reponses" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.reponses">
+              <point x="0.0" y="-78.0" />
+              <point x="0.0" y="46.5" />
+            </edge>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.sondage_questions" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.questions">
+              <point x="0.0" y="-46.5" />
+              <point x="0.0" y="57.0" />
+            </edge>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.sondage_reponses" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.users">
+              <point x="-103.5" y="0.0" />
+              <point x="0.0" y="240.0" />
+              <point x="0.0" y="800.0" />
+              <point x="-93.5" y="0.0" />
+            </edge>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.reponses" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.questions">
+              <point x="69.5" y="0.0" />
+              <point x="760.0" y="40.0" />
+              <point x="0.0" y="-57.0" />
+            </edge>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.notifications" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.surveys">
+              <point x="81.0" y="0.0" />
+              <point x="-150.5" y="0.0" />
+            </edge>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.sondage_reponses" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.surveys">
+              <point x="0.0" y="78.0" />
+              <point x="0.0" y="-130.5" />
+            </edge>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.surveys" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.users">
+              <point x="0.0" y="130.5" />
+              <point x="480.0" y="800.0" />
+              <point x="93.5" y="0.0" />
+            </edge>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.sondage_questions" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.surveys">
+              <point x="-78.5" y="0.0" />
+              <point x="150.5" y="0.0" />
+            </edge>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.notifications" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.users">
+              <point x="0.0" y="57.0" />
+              <point x="0.0" y="-78.0" />
+            </edge>
+            <edge source="086203f6-7bb9-4732-85a7-4a271e619689.table:database.sondage_reponses" target="086203f6-7bb9-4732-85a7-4a271e619689.table:database.questions">
+              <point x="103.5" y="0.0" />
+              <point x="-81.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5542521994134897" x="-40.0" y="416.0" />
+          <SelectedNodes>
+            <node>086203f6-7bb9-4732-85a7-4a271e619689.table:database.users</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Spec">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Spec</OriginalElement>
+          <nodes>
+            <node x="1082.8879310344828" y="198.8994252873564">\Spec</node>
+            <node x="500.86781609195407" y="401.0689655172414">\Reponse</node>
+            <node x="995.3132183908049" y="-68.60057471264383">\Service</node>
+            <node x="780.8419540229886" y="402.46264367816093">\Module</node>
+            <node x="494.50862068965534" y="-73.86494252873564">\Question</node>
+            <node x="-239.712643678161" y="-103.132183908046">\Sondage</node>
+            <node x="1095.0718390804598" y="524.3735632183908">\Notification</node>
+            <node x="0.0" y="1139.0">\User</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7175257731958763" x="90.0" y="-473.0" />
+          <SelectedNodes>
+            <node>\Notification</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveyResults (Mehdi BENMESSAOUD's conflicted copy 2015-05-05).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/PHPExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="3672" max-vertical-offset="19057">
+          <caret line="248" column="18" selection-start-line="248" selection-start-column="18" selection-end-line="248" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveyResults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5875" vertical-offset="2744" max-vertical-offset="13532">
+          <caret line="183" column="46" selection-start-line="183" selection-start-column="46" selection-end-line="183" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6862745" vertical-offset="1206" max-vertical-offset="5185">
+          <caret line="82" column="49" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sondageInfo2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0" vertical-offset="2215" max-vertical-offset="4964">
+          <caret line="141" column="69" selection-start-line="141" selection-start-column="69" selection-end-line="141" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newSondage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.33333334" vertical-offset="0" max-vertical-offset="476">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modeles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0" vertical-offset="1479" max-vertical-offset="7922">
+          <caret line="113" column="73" selection-start-line="113" selection-start-column="73" selection-end-line="113" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MesSurveys.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.352941" vertical-offset="1087" max-vertical-offset="5304">
+          <caret line="83" column="69" selection-start-line="83" selection-start-column="69" selection-end-line="83" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userlogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2820" max-vertical-offset="2970">
+          <caret line="188" column="48" selection-start-line="188" selection-start-column="48" selection-end-line="188" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Menu/css/component2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.551724" vertical-offset="0" max-vertical-offset="5593">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminindex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2125" vertical-offset="0" max-vertical-offset="3298">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editPass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sondageInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.8125" vertical-offset="901" max-vertical-offset="4998">
+          <caret line="143" column="70" selection-start-line="143" selection-start-column="70" selection-end-line="143" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveyParticipation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4622144" vertical-offset="5738" max-vertical-offset="6307">
+          <caret line="353" column="21" selection-start-line="353" selection-start-column="21" selection-end-line="353" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sondageInfo3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2380" max-vertical-offset="4947">
+          <caret line="140" column="69" selection-start-line="140" selection-start-column="69" selection-end-line="140" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sondageInfo4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2397" max-vertical-offset="4964">
+          <caret line="141" column="70" selection-start-line="141" selection-start-column="70" selection-end-line="141" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3333335" vertical-offset="2431" max-vertical-offset="4437">
+          <caret line="189" column="42" selection-start-line="189" selection-start-column="19" selection-end-line="189" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.666666" vertical-offset="5542" max-vertical-offset="7395">
+          <caret line="485" column="8" selection-start-line="485" selection-start-column="8" selection-end-line="485" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InfoProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49514562" vertical-offset="0" max-vertical-offset="3162">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexadm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.25" vertical-offset="1683" max-vertical-offset="4862">
+          <caret line="139" column="70" selection-start-line="139" selection-start-column="70" selection-end-line="139" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/js1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/js2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="2235">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexPrin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29982045" vertical-offset="1633" max-vertical-offset="2190">
+          <caret line="120" column="22" selection-start-line="120" selection-start-column="22" selection-end-line="120" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="project" uuid="086203f6-7bb9-4732-85a7-4a271e619689">
+    <database-info product="MySQL" version="5.5.41-0ubuntu0.14.04.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.34 ( Revision: jess.balint@oracle.com-20141014163213-wqbwpf1ok2kvo1om )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <schema name="" catalog="database"/>
+    <table name="modules" schema="" catalog="database" type="TABLE">
+      <column name="id_module" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="code" sqlType="VARCHAR" precision="40" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id_module"/>
+    </table>
+    <table name="notifications" schema="" catalog="database" type="TABLE">
+      <column name="id_n" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="id_u" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="id_s" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="state" sqlType="ENUM" precision="11" scale="0" nullable="false" jdbcType="1" def="J25vbmVzZWVuJw=="/>
+      <primary-key name="PRIMARY" columns="id_n"/>
+      <foreign-key name="id_survey" columns="id_s" ref-table="surveys" ref-schema="" ref-catalog="database" ref-columns="id_s" update-rule="0" delete-rule="0" deferrability="2"/>
+      <foreign-key name="id_user" columns="id_u" ref-table="users" ref-schema="" ref-catalog="database" ref-columns="id" update-rule="0" delete-rule="0" deferrability="2"/>
+      <index name="id_u" unique="false" columns="id_s"/>
+    </table>
+    <table name="questions" schema="" catalog="database" type="TABLE">
+      <column name="id_q" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="question" sqlType="VARCHAR" precision="100" scale="0" nullable="true" jdbcType="12"/>
+      <column name="type" sqlType="CHAR" precision="8" scale="0" nullable="true" jdbcType="1"/>
+      <column name="original" sqlType="CHAR" precision="1" scale="0" nullable="false" jdbcType="1" def="J3kn"/>
+      <primary-key name="PRIMARY" columns="id_q"/>
+      <exported-key name="id_q" table="reponses" schema="" catalog="database" columns="id_q"/>
+      <exported-key name="question" table="sondage_questions" schema="" catalog="database" columns="id_q"/>
+      <exported-key name="sondage_question" table="sondage_reponses" schema="" catalog="database" columns="id_q"/>
+    </table>
+    <table name="reponses" schema="" catalog="database" type="TABLE">
+      <column name="id_r" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="id_q" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="reponse" sqlType="VARCHAR" precision="100" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id_r"/>
+      <foreign-key name="id_q" columns="id_q" ref-table="questions" ref-schema="" ref-catalog="database" ref-columns="id_q" update-rule="0" delete-rule="0" deferrability="2"/>
+      <exported-key name="sondage_reponse" table="sondage_reponses" schema="" catalog="database" columns="id_r"/>
+    </table>
+    <table name="services" schema="" catalog="database" type="TABLE">
+      <column name="id_service" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="service" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id_service"/>
+    </table>
+    <table name="sondage_questions" schema="" catalog="database" type="TABLE">
+      <column name="id_sq" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="id_s" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="id_q" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <primary-key name="PRIMARY" columns="id_sq"/>
+      <foreign-key name="id_s" columns="id_s" ref-table="surveys" ref-schema="" ref-catalog="database" ref-columns="id_s" update-rule="0" delete-rule="0" deferrability="2"/>
+      <foreign-key name="question" columns="id_q" ref-table="questions" ref-schema="" ref-catalog="database" ref-columns="id_q" update-rule="0" delete-rule="0" deferrability="2"/>
+    </table>
+    <table name="sondage_reponses" schema="" catalog="database" type="TABLE">
+      <column name="id_sr" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="id_s" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="id_q" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="id_r" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="id_user" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="other" sqlType="VARCHAR" precision="100" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id_sr"/>
+      <foreign-key name="sondage" columns="id_s" ref-table="surveys" ref-schema="" ref-catalog="database" ref-columns="id_s" update-rule="0" delete-rule="0" deferrability="2"/>
+      <foreign-key name="sondage_question" columns="id_q" ref-table="questions" ref-schema="" ref-catalog="database" ref-columns="id_q" update-rule="0" delete-rule="0" deferrability="2"/>
+      <foreign-key name="sondage_reponse" columns="id_r" ref-table="reponses" ref-schema="" ref-catalog="database" ref-columns="id_r" update-rule="0" delete-rule="0" deferrability="2"/>
+      <foreign-key name="userid" columns="id_user" ref-table="users" ref-schema="" ref-catalog="database" ref-columns="id" update-rule="0" delete-rule="0" deferrability="2"/>
+    </table>
+    <table name="specs" schema="" catalog="database" type="TABLE">
+      <column name="id_spec" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="spec" sqlType="VARCHAR" precision="10" scale="0" nullable="false" jdbcType="12"/>
+      <column name="groupes" sqlType="SMALLINT" precision="5" scale="0" nullable="true" jdbcType="5"/>
+      <primary-key name="PRIMARY" columns="id_spec"/>
+    </table>
+    <table name="surveys" schema="" catalog="database" type="TABLE">
+      <column name="id_s" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="module" sqlType="VARCHAR" precision="120" scale="0" nullable="true" jdbcType="12"/>
+      <column name="description" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <column name="debut" sqlType="TIMESTAMP" precision="19" scale="0" nullable="false" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA="/>
+      <column name="fin" sqlType="TIMESTAMP" precision="19" scale="0" nullable="false" jdbcType="93" def="JzAwMDAtMDAtMDAgMDA6MDA6MDAn"/>
+      <column name="nom_sondage" sqlType="CHAR" precision="40" scale="0" nullable="false" jdbcType="1"/>
+      <column name="list" sqlType="VARCHAR" precision="200" scale="0" nullable="true" jdbcType="12"/>
+      <column name="state" sqlType="CHAR" precision="1" scale="0" nullable="true" jdbcType="1" def="J24n"/>
+      <column name="modale" sqlType="CHAR" precision="1" scale="0" nullable="false" jdbcType="1" def="J24n"/>
+      <column name="nb_p" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <primary-key name="PRIMARY" columns="id_s"/>
+      <foreign-key name="id" columns="id" ref-table="users" ref-schema="" ref-catalog="database" ref-columns="id" update-rule="0" delete-rule="0" deferrability="2"/>
+      <exported-key name="id_survey" table="notifications" schema="" catalog="database" columns="id_s"/>
+      <exported-key name="id_s" table="sondage_questions" schema="" catalog="database" columns="id_s"/>
+      <exported-key name="sondage" table="sondage_reponses" schema="" catalog="database" columns="id_s"/>
+    </table>
+    <table name="users" schema="" catalog="database" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="name" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <column name="password" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <column name="email" sqlType="VARCHAR" precision="50" scale="0" nullable="false" jdbcType="12"/>
+      <column name="type" sqlType="VARCHAR" precision="50" scale="0" nullable="false" jdbcType="12"/>
+      <column name="year" sqlType="VARCHAR" precision="10" scale="0" nullable="true" jdbcType="12" def="JzAn"/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <exported-key name="id_user" table="notifications" schema="" catalog="database" columns="id_u"/>
+      <exported-key name="userid" table="sondage_reponses" schema="" catalog="database" columns="id_user"/>
+      <exported-key name="id" table="surveys" schema="" catalog="database" columns="id"/>
+      <index name="unique_name" unique="true" columns="name"/>
+    </table>
+  </data-source>
+</component>
